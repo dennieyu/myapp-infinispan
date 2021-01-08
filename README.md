@@ -1,4 +1,4 @@
-# myapp-infinispan
+# 다루는 내용
 * 분산 캐시  
 `노드간 통신 UDP + Java Marshalling`, `클러스터 모니터링`, `캐시 API`
 
