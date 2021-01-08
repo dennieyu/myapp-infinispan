@@ -1,6 +1,6 @@
 # myapp-infinispan
 * 분산 캐시  
-`노드간 통신 UDP + Java Mashalling`, `클러스터 모니터링`, `캐시 API`
+`노드간 통신 UDP + Java Marshalling`, `클러스터 모니터링`, `캐시 API`
 
 * SDR  
 `이름으로 멤버 조회 시 캐싱 적용`
