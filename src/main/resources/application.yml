@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ${APP_NAME:myapp}
+  data:
+    rest:
+      base-path: /api
+
+logging:
+  level:
+    root: info
+    com.zaxxer.hikari.pool: info
+
+myapp:
+  cache:
+    configFile: default-configs/default-jgroups-tcp.xml

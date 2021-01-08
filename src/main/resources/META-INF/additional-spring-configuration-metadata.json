@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "myapp.cache.config-file",
+  "type": "java.lang.String",
+  "description": "A description for 'myapp.cache.config-file'"
+}]}
