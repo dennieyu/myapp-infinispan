@@ -37,7 +37,7 @@ public class InfinispanCacheConfig {
 		globalBuilder.clusteredDefault()
 				.transport().defaultTransport()
 				.addProperty("configurationFile", configFile)
-				.clusterName("metatron-discovery-v20")
+				.clusterName("myapp-cluster-2020")
 				.defaultCacheName("default-cache")
 				.serialization()
 				.marshaller(new JavaSerializationMarshaller())
